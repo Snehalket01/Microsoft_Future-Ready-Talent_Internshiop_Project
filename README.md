@@ -13,3 +13,6 @@ BOOTSTRAP
 **Azure Technology**
 web app 
 static web app
+
+**Azure Project Link**
+https://green-beach-024e5d510.3.azurestaticapps.net/about.html
